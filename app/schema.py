@@ -37,7 +37,7 @@ class Transmission(str,Enum):
     
 
 class FuelType(str, Enum):
-    Petrol = "petrol"
+    Petrol = "Petrol"
     Diesel = "Diesel"
     Hybrid = "Hybrid"
     Electric = "Electric"
