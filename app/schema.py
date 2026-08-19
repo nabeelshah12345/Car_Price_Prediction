@@ -57,3 +57,7 @@ class car_features(BaseModel):
 
 class prediction_price(BaseModel):
     prediction :float
+
+
+
+

@@ -7,7 +7,7 @@ st.title("🚗 Ford Car Price Prediction")
 st.write("Enter Car details : ")
 
 # ---------- API endpoint ----------
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://car-price-prediction-six-xi.vercel.app/"
 
 # ---------- Categorical options (schema.py se exact match) ----------
 model_options = [
